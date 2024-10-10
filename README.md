@@ -10,4 +10,4 @@ The above link is for reference, the actual loading and processing are done usin
 
 # Running 
 - Follow the steps in the neurobench repo to setup the neurobench environment
-- Run load_data.py from the neurobench env to load and preprocess the data
+- Run load_data.py from the neurobench env to load and preprocess the data to desired path
