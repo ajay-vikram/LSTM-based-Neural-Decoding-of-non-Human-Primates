@@ -10,6 +10,8 @@ all_files = ["indy_20160622_01", "indy_20160630_01", "indy_20170131_02",
 
 dataset = []
 
+store_dir = "../data/"
+
 def normalize_dataset(dataset):
     normalized_dataset = []
     for sample, label in dataset:
